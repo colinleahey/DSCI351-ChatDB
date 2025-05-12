@@ -1,6 +1,6 @@
 # ChatDB
 
-ChatDB is a natural language interface for interacting with a MySQL database.  It allows users to query the database using natural language, which is then translated into SQL.
+ChatDB is a natural language interface for interacting with a MySQL database.  It allows users to query the database using natural language, which is then translated into SQL through the integration of an API.
 
 ## Files
 
